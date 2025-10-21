@@ -30,7 +30,7 @@ git clone https://github.com/arup04/Autogen_Project
 ```
 Now change the directory
 ```bash
-cd AUTOGEN_PROJECT
+cd Autogen_Project
 ```
 
 2️⃣ Create a virtual environment
