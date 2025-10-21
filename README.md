@@ -17,7 +17,7 @@ GROQ API Key — for reasoning and summarization
 
 ⚙️ Installation
 1️⃣ Clone the repository
-```git clone https://github.com/arup04/AUTOGEN_PROJECT.git```
+```git clone https://github.com/arup04/Autogen_Project```
 ```cd AUTOGEN_PROJECT```
 
 2️⃣ Create a virtual environment (optional)
