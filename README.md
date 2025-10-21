@@ -4,9 +4,9 @@ An intelligent multi-agent system powered by AutoGen that automatically reads, a
 This project showcases how LLM-driven agents can collaborate to perform deep literature analysis — extracting purpose, key contributions, advantages, disadvantages, and future research directions from each paper.
 
 🚀 Features
-🤖 Multi-Agent Collaboration — Uses AutoGen agents (Reader, Summarizer, Critic, Comparator) to coordinate complex research tasks.
+
 📄 Automated Research Summaries — Generates structured summaries of academic papers with purpose, findings, and pros/cons.
-🧠 Agentic AI Framework — Demonstrates concepts of LLM-Agents, MLLM-Agents, and multi-agent orchestration.
+🧠 Agentic AI Framework — Autogen
 🗂️ Organized Output — Presents research insights in a clean, categorized format for each paper.
 🔍 Scalable Design — Easily extendable to new topics beyond Agentic AI.
 🏗️ Tech Stack
